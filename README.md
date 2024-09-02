@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Web Developer and Software Testing Automation<br>👯 I’m looking to collaborate on: few enthusiast Web Developer<br>🌱 I’m currently learning<br>💬 Ask me about: what is Compsci is for?<br>⚡ Fun fact: I like to sleep how ironic is that?
+🔭 I’m currently working on : ItamRac System and CI/CD Automation with Selenium C#<br>👯 I’m looking to collaborate on: few enthusiast Web Developer<br>🌱 I’m currently learning<br>💬 Ask me about: what is Compsci is for?<br>⚡ Fun fact: I like to sleep how ironic is that?
 
 
 ## 🌐 Socials:
